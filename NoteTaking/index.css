@@ -1,0 +1,22 @@
+body{
+    /* background-color: rgb(35, 35, 35);
+    border-radius: 10px;*/
+    color: rgb(0, 0, 0); 
+
+}
+.card-body{
+    /* background-color: rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px; */
+    color: rgb(0, 0, 0);
+}
+.card-body textarea{
+    /* background-color: rgb(54, 54, 54); */
+    border-radius: 10px;
+    /* color: rgb(255, 255, 255); */
+}
+#div1{
+    padding: 60px 40px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+} 
